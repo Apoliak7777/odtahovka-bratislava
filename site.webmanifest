@@ -1,0 +1,15 @@
+{
+  "name": "Odťahovka Bratislava",
+  "short_name": "Odťahovka",
+  "description": "Odťahová služba a preprava vozidiel pre Bratislavu a okolie, denne 8–22.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F3F5F9",
+  "theme_color": "#2457C5",
+  "lang": "sk",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
